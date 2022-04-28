@@ -7,3 +7,8 @@
 2. AI is of two types : *Defensive AI* and *Random AI*
 3. You can *RESTART* the game
 4. Theme is of three types : *CLASSIC*, *FOREST* and *HIGH CONTRAST*
+
+
+## ***TECH***
+JAVA
+JAVA SWING
