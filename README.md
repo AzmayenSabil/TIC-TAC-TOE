@@ -10,5 +10,5 @@
 
 
 ## ***TECH***
-JAVA
-JAVA SWING
+1. JAVA
+2. JAVA SWING
